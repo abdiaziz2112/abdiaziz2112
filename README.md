@@ -8,5 +8,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Software Engineering
 - 📫 How to reach me: <a href="https://wa.me/+252619792712"> whatsapp </a>
 - ⚡ Fun fact: I relax listening Holy Koran
+- <img src="https://i.ibb.co/y84wDkW/Screenshot-20220307-182043-Chrome.jpg">
 - <a href="https://abdiaziz.netlify.app/">Mypage</a>
 
