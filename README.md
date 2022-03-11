@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="https://wa.me/+252619792712"> whatsapp </a>
 - ⚡ Fun fact: I relax listening Holy Koran
 - <a href="https://abdiaziz.netlify.app/">Mypage</a>
-- <a href="https://www.canva.com/design/DAE6r2kISZM/UNto3gkqDAnVfZ6-7tUpSQ/view?utm_content=DAE6r2kISZM&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel"></a>
+- <img src="20220311_200747_0000.png">
 
