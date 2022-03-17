@@ -1,4 +1,4 @@
-### Hello, I'm Abdiaziz Maashaa 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%&lines=Hello+I'm+Abdiaziz+Maashaa+👋)](https://git.io/typing-svg)
 
 Here are some ideas to get you started:
 
