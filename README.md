@@ -2,15 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%&lines=Hello+I'm+Abdiaziz+Maashaa+👋)](https://git.io/typing-svg)
 
-## About me 
+## ABOUT ME 
 
 - 🔭 I’m currently working on Front_End developer
-- 🌱 I’m currently learning software Engineering
+- 🌱 I’m currently learning computer applications 
 - 😇 My profile Facebook <a href="https://www.facebook.com/abdiaziz.Africa">Abdiaziz Maashaa</a> 
 - 💬 Ask me about Software Engineering
-- 📫 How to reach me: <a href="https://wa.me/+252619792712"> whatsapp </a>
-- ⚡ Fun fact: I relax listening Holy Koran
-- <a href="https://abdiaziz.netlify.app/">Mypage</a>
-## My 
+- 📫 Chat with me in : <a href="https://wa.me/+252619792712"> whatsapp </a>
+- ⚡I relax listening Holy Koran.
+- My page <a href="https://abdiaziz.netlify.app/"><strong>👉 Abdiaziz</strong></a>
+## MY SUMMARY 
 - <img src="https://github.com/abdiaziz2112/abdiaziz2112/blob/main/20220311_200747_0000.png">
 
