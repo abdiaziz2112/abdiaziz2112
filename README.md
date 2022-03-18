@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%&lines=Hello+I'm+Abdiaziz+Maashaa+👋)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+## About me 
 
 - 🔭 I’m currently working on Front_End developer
 - 🌱 I’m currently learning software Engineering
@@ -11,5 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="https://wa.me/+252619792712"> whatsapp </a>
 - ⚡ Fun fact: I relax listening Holy Koran
 - <a href="https://abdiaziz.netlify.app/">Mypage</a>
+## My 
 - <img src="https://github.com/abdiaziz2112/abdiaziz2112/blob/main/20220311_200747_0000.png">
 
