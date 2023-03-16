@@ -4,7 +4,7 @@
 
 ## ABOUT ME 
 
-- 🔭 I’m currently working on Front_End developer
+- 🔭 I’m Front_End developer
 - 🌱 I’m currently learning computer applications 
 - 😇 My profile Facebook <a href="https://www.facebook.com/abdiaziz.Africa">Abdiaziz Maashaa</a> 
 - 💬 Ask me about Software Engineering
