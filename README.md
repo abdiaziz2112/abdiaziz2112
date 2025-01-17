@@ -1,16 +1,64 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Here%20is+my%20%20Information%F0%9F%8C%A9&animation=twinkling&fontSize=45)
+# Hello 👋 I'm Abdiaziz Ahmed Adan | GitHub Followers: <img src="https://img.shields.io/github/followers/abdiaziz2112?style=social" alt="GitHub followers"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%&lines=Hello+I'm+Abdiaziz+Maashaa+👋)](https://git.io/typing-svg)
 
-## ABOUT ME 
+Welcome to my GitHub profile, I'm a passionate software developer with over 3 years of experience creating innovative, scalable, and efficient solutions for diverse applications.
 
-- 🔭 I’m Front_End developer
-- 🌱 I’m currently learning computer applications 
-- 😇 My profile Facebook <a href="https://www.facebook.com/abdiaziz.Africa">Abdiaziz Maashaa</a> 
-- 💬 Ask me about Software Engineering
-- 📫 Chat with me in : <a href="https://wa.me/+252619792712"> whatsapp </a>
-- ⚡I relax listening Holy Koran.
-- My page <a href="https://abdiaziz.netlify.app/"><strong>👉 Abdiaziz</strong></a>
-## MY SUMMARY 
-- <img src="https://github.com/abdiaziz2112/abdiaziz2112/blob/main/20220311_200747_0000.png">
 
+---
+
+## 🌟 About Me
+
+- 🎓 **Education**: Bachelor's in Computer Applications.
+- 💻 **Experience**: 3+ years of experience in full-stack development, system design, and database optimization.
+- 🌱 **Expertise**: Specialized in building robust applications, designing user-friendly interfaces, and integrating advanced technologies.
+
+---
+
+## 🚀 Skills and Technologies
+
+Here are the tools and technologies I excel in:
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,cs,dotnet,python,js,mongodb,express,react,nodejs" alt="Tech Stack"/>
+</div>
+
+
+| **Languages & Frameworks** | **Proficiency**           |
+|----------------------------|---------------------------|
+| **C#**, **.NET Framework** | Backend Development       |
+| **JavaScript**, **React**  | Front-end Development     |
+| **SQL**, **MongoDB**       | Database Management       |
+| **ASP.NET**, **Node.js**   | Full-stack Development    |
+| **Python**, **AI/ML**      | Data Analysis & AI Models |
+
+---
+
+## ✍️ Featured Projects
+
+- **Task Manager Application**: A full-stack web application for managing personal and team tasks efficiently.
+- **E-Commerce Platform**: Built a scalable platform integrating payment gateways and advanced search features.
+- **AI Chatbot**: Developed a chatbot using machine learning techniques to enhance customer support.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdiaziz2112&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdiaziz2112&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdiaziz2112&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+  <a href="mailto:abdiaziz@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/abdiaziz2112"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+</div>
+
+---
+
+Thank you for exploring my profile! I'm always eager to collaborate on challenging projects and innovate together.
