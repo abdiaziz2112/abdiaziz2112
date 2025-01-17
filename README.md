@@ -1,8 +1,12 @@
-# Hello 👋 I'm Abdiaziz Ahmed Adan | <img src="https://img.shields.io/github/followers/abdiaziz2112?style=social" alt="GitHub followers"/>
+# Hello 👋 I'm Abdiaziz Ahmed | <img src="https://img.shields.io/github/followers/abdiaziz2112?style=social" alt="GitHub followers"/> |  <img src="https://komarev.com/ghpvc/?username=abdiaziz2112&style=flat-square" alt="Profile Views"/>
+
+
+
+
+
 
 
 Welcome to my GitHub profile, I'm a passionate software developer with over 3 years of experience creating innovative, scalable, and efficient solutions for diverse applications.
-
 
 ---
 
@@ -21,7 +25,6 @@ Here are the tools and technologies I excel in:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma,html,css,cs,dotnet,python,js,mongodb,express,react,nodejs" alt="Tech Stack"/>
 </div>
-
 
 | **Languages & Frameworks** | **Proficiency**           |
 |----------------------------|---------------------------|
