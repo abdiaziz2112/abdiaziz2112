@@ -19,7 +19,7 @@ Welcome to my GitHub profile, I'm a passionate software developer with over 3 ye
 Here are the tools and technologies I excel in:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,cs,dotnet,python,js,mongodb,express,react,nodejs" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=figma,html,css,cs,dotnet,python,js,mongodb,express,react,nodejs" alt="Tech Stack"/>
 </div>
 
 
