@@ -1,9 +1,4 @@
-# Hello 👋 I'm Abdiaziz Ahmed | <img src="https://img.shields.io/github/followers/abdiaziz2112?style=social" alt="GitHub followers"/> |  <img src="https://komarev.com/ghpvc/?username=abdiaziz2112&style=flat-square" alt="Profile Views"/>
-
-
-
-
-
+# Hello👋 I'm Abdiaziz Ahmed | <img src="https://img.shields.io/github/followers/abdiaziz2112?style=social" alt="GitHub followers"/> |  <img src="https://komarev.com/ghpvc/?username=abdiaziz2112&style=flat-square" alt="Profile Views"/>
 
 
 Welcome to my GitHub profile, I'm a passionate software developer with over 3 years of experience creating innovative, scalable, and efficient solutions for diverse applications.
@@ -66,4 +61,4 @@ Here are the tools and technologies I excel in:
 
 ---
 
-Thank you for exploring my profile! I'm always eager to collaborate on challenging projects and innovate together.
+Thank you for exploring my profile. I'm always eager to collaborate on challenging projects and innovate together.
