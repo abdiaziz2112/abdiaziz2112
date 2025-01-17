@@ -54,7 +54,7 @@ Here are the tools and technologies I excel in:
 ## 🌐 Let's Connect
 
 <div align="center">
-  <a href="mailto:maashaasr@gmail.com" target="_blank">
+  <a href="mailto:maashaasr@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
   <a href="https://www.linkedin.com/in/abdi-aziz-a-86a9871b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
