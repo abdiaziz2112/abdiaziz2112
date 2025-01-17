@@ -1,4 +1,4 @@
-# Hello 👋 I'm Abdiaziz Ahmed Adan | GitHub Followers: <img src="https://img.shields.io/github/followers/abdiaziz2112?style=social" alt="GitHub followers"/>
+# Hello 👋 I'm Abdiaziz Ahmed Adan | <img src="https://img.shields.io/github/followers/abdiaziz2112?style=social" alt="GitHub followers"/>
 
 
 Welcome to my GitHub profile, I'm a passionate software developer with over 3 years of experience creating innovative, scalable, and efficient solutions for diverse applications.
