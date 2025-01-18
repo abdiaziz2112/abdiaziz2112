@@ -43,7 +43,7 @@ Here are the tools and technologies I excel in:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdiaziz2112&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdiaziz2112&theme=radical" alt="GitHub Streak"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdiaziz2112&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
