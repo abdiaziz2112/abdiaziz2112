@@ -18,24 +18,14 @@ Welcome to my GitHub profile, I'm a passionate software developer with over 3 ye
 Here are the tools and technologies I excel in:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,html,css,cs,dotnet,python,js,mongodb,express,react,nodejs" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/html,css,cs,dotnet,python,js,mongodb,express,react,nodejs" alt="Tech Stack"/>
 </div>
 
-| **Languages & Frameworks** | **Proficiency**           |
-|----------------------------|---------------------------|
-| **C#**, **.NET Framework** | Backend Development       |
-| **JavaScript**, **React**  | Front-end Development     |
-| **SQL**, **MongoDB**       | Database Management       |
-| **ASP.NET**, **Node.js**   | Full-stack Development    |
-| **Python**, **AI/ML**      | Data Analysis & AI Models |
-
----
 
 ## ✍️ Featured Projects
 
 - **Task Manager Application**: A full-stack web application for managing personal and team tasks efficiently.
-- **E-Commerce Platform**: Built a scalable platform integrating payment gateways and advanced search features.
-- **AI Chatbot**: Developed a chatbot using machine learning techniques to enhance customer support.
+- **E-Commerce Platform**: Built a scalable platform integrating payment gateways and advanced search features
 
 ---
 
