@@ -13,9 +13,6 @@ Welcome to my GitHub profile, I'm a passionate software developer with over 3 ye
 
 ---
 
-## 🚀 Skills and Technologies
-
-
 ## ✍️ Featured Projects
 
 - **Task Manager Application**: A full-stack web application for managing personal and team tasks efficiently.
