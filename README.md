@@ -11,6 +11,12 @@
 
 ---
 
+## 🚀 Tech Stack
+
+C# | .NET | React | SQL | MongoDB | API Development
+
+---
+
 ## 🚀 What I Can Do
 
 - Build full-stack web applications (.NET + React)
