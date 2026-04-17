@@ -1,21 +1,32 @@
 # Hello👋 I'm Abdiaziz Ahmed | <img src="https://img.shields.io/github/followers/abdiaziz2112?style=social" alt="GitHub followers"/> |  <img src="https://komarev.com/ghpvc/?username=abdiaziz2112&style=flat-square" alt="Profile Views"/>
 
-Welcome to my GitHub profile, I'm a passionate software developer with over 3 years of experience creating innovative, scalable, and efficient solutions for diverse applications.
-
 ---
 
 ## 🌟 About Me
 
-- 🎓 **Education**: Bachelor's in Computer Applications.
-- 💻 **Experience**: 3+ years of experience in full-stack development, system design, and database optimization.
-- 🌱 **Expertise**: Specialized in building robust applications, designing user-friendly interfaces, and integrating advanced technologies.
+- 🎓 Bachelor's in Computer Applications  
+- 💻 3+ years of experience in full-stack development  
+- ⚙️ Skilled in system design and database optimization  
+- 🚀 Focused on building scalable and efficient applications  
+
+---
+
+## 🚀 What I Can Do
+
+- Build full-stack web applications (.NET + React)
+- Develop secure and scalable APIs
+- Fix bugs and improve existing systems
+- Turn ideas into working MVPs quickly
 
 ---
 
 ## ✍️ Featured Projects
 
-- **Task Manager Application**: A full-stack web application for managing personal and team tasks efficiently.
-- **E-Commerce Platform**: Built a scalable platform integrating payment gateways and advanced search features.
+- **Task Manager Application**  
+  Built a full-stack productivity system that allows teams to manage tasks, track progress, and improve workflow efficiency.
+
+- **E-Commerce Platform**  
+  Developed a scalable online store with secure payments, product search, and optimized performance for real users.
 
 ---
 
@@ -31,7 +42,8 @@ Welcome to my GitHub profile, I'm a passionate software developer with over 3 ye
 
 ## 🤝 Collaboration
 
-I'm open to collaborating on interesting and impactful projects. Feel free to explore my repositories and contributions.
+I'm open to collaborating on interesting and impactful projects.  
+Feel free to explore my repositories and contributions.
 
 ---
 
