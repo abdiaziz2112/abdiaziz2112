@@ -1,38 +1,82 @@
-# Hello👋 I'm Abdiaziz Ahmed | <img src="https://img.shields.io/github/followers/abdiaziz2112?style=social" alt="GitHub followers"/> |  <img src="https://komarev.com/ghpvc/?username=abdiaziz2112&style=flat-square" alt="Profile Views"/>
+# Hello 👋 I'm Abdiaziz Ahmed
+
+<img src="https://img.shields.io/github/followers/abdiaziz2112?style=social" alt="GitHub followers"/>  
+<img src="https://komarev.com/ghpvc/?username=abdiaziz2112&style=flat-square" alt="Profile Views"/>
 
 ---
 
 ## 🌟 About Me
 
-- 🎓 Bachelor's in Computer Applications  
-- 💻 3+ years of experience in full-stack development  
-- ⚙️ Skilled in system design and database optimization  
-- 🚀 Focused on building scalable and efficient applications  
+* 💻 Full Stack Developer focused mainly on JavaScript and MERN
+* 🚀 Experience building full-stack web applications
+* ⚛️ Mainly work with React, Node.js, Express, and MongoDB
+* ⚙️ Also work with C# and .NET
+* 🗄️ Enjoy working with APIs, databases, and backend systems
 
 ---
 
 ## 🚀 Tech Stack
 
-C# | .NET | React | SQL | MongoDB | API Development
+### 🎨 Frontend
+
+JavaScript | React | TypeScript | HTML | CSS | Material UI
+
+### ⚙️ Backend
+
+Node.js | Express.js | C# | .NET | ASP.NET Core | REST APIs
+
+### 🗄️ Database
+
+MongoDB | PostgreSQL | SQL | Oracle
+
+### 🛠️ Tools
+
+Git | GitHub | VS Code | Visual Studio
+
+### 🔍 Exploring
+
+Python | AI | Machine Learning | LLMs
 
 ---
 
-## 🚀 What I Can Do
+# Hello 👋 I'm Abdiaziz Ahmed
 
-- Build full-stack web applications (.NET + React)
-- Develop secure and scalable APIs
-- Fix bugs and improve existing systems
-- Turn ideas into working MVPs quickly
+<img src="https://img.shields.io/github/followers/abdiaziz2112?style=social" alt="GitHub followers"/>  
+<img src="https://komarev.com/ghpvc/?username=abdiaziz2112&style=flat-square" alt="Profile Views"/>
 
 ---
 
-## ✍️ Featured Projects
+## 🌟 About Me
 
-- **Task Manager Application**  
-  Built a full-stack productivity system that allows teams to manage tasks, track progress, and improve workflow efficiency.
+* 💻 Full Stack Developer focused mainly on JavaScript and MERN
+* 🚀 Experience building full-stack web applications
+* ⚛️ Mainly work with React, Node.js, Express, and MongoDB
+* ⚙️ Also work with C# and .NET
+* 🗄️ Enjoy working with APIs, databases, and backend systems
 
-- **E-Commerce Platform**  
-  Developed a scalable online store with secure payments, product search, and optimized performance for real users.
+---
+
+## 🚀 Tech Stack
+
+### 🎨 Frontend
+
+JavaScript | React | TypeScript | HTML | CSS | Material UI
+
+### ⚙️ Backend
+
+Node.js | Express.js | C# | .NET | ASP.NET Core | REST APIs
+
+### 🗄️ Database
+
+MongoDB | PostgreSQL | SQL | Oracle
+
+### 🛠️ Tools
+
+Git | GitHub | VS Code | Visual Studio
+
+### 🔍 Exploring
+
+Python | AI | Machine Learning | LLMs
 
 ---
 
@@ -40,17 +84,40 @@ C# | .NET | React | SQL | MongoDB | API Development
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdiaziz2112&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdiaziz2112&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 ---
 
-## 🤝 Collaboration
+## 🤝 Let's Connect
 
-I'm open to collaborating on interesting and impactful projects.  
-Feel free to explore my repositories and contributions.
+I'm always interested in working on interesting projects, collaborating with other developers, and building useful software.
+
+Feel free to check out my repositories and see what I'm working on.
 
 ---
 
-Thank you for visiting my profile.
+**Thanks for visiting! 👋**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdiaziz2112&show_icons=true&theme=radical" alt="GitHub Stats"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdiaziz2112&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in working on interesting projects, collaborating with other developers, and building useful software.
+
+Feel free to check out my repositories and see what I'm working on.
+
+---
+
+**Thanks for visiting! 👋**
