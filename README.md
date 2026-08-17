@@ -1,6 +1,6 @@
-# Hello 👋 I'm Abdiaziz Ahmed
+# Hello I'm Abdiaziz Ahmed
 
-## 🌟 About Me
+## About Me
 
 - 💻 Full-Stack Developer focused on JavaScript and the MERN stack
 - 🚀 Passionate about building practical, real-world web applications
@@ -35,7 +35,7 @@ Python · Artificial Intelligence · Machine Learning · LLMs
 - Turn ideas into working, production-ready applications
 
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always interested in exciting projects and collaborating with other developers.
 Feel free to explore my repositories to see what I'm building.
