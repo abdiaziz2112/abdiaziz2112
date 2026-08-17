@@ -1,123 +1,43 @@
 # Hello 👋 I'm Abdiaziz Ahmed
 
-<img src="https://img.shields.io/github/followers/abdiaziz2112?style=social" alt="GitHub followers"/>  
-<img src="https://komarev.com/ghpvc/?username=abdiaziz2112&style=flat-square" alt="Profile Views"/>
-
----
-
 ## 🌟 About Me
 
-* 💻 Full Stack Developer focused mainly on JavaScript and MERN
-* 🚀 Experience building full-stack web applications
-* ⚛️ Mainly work with React, Node.js, Express, and MongoDB
-* ⚙️ Also work with C# and .NET
-* 🗄️ Enjoy working with APIs, databases, and backend systems
-
----
+- 💻 Full-Stack Developer focused on JavaScript and the MERN stack
+- 🚀 Passionate about building practical, real-world web applications
+- ⚛️ Primarily work with React, Node.js, Express, and MongoDB
+- ⚙️ Also experienced with C# and .NET
+- 🗄️ Enjoy working with APIs, databases, and backend systems
 
 ## 🚀 Tech Stack
 
-### 🎨 Frontend
+**🎨 Frontend**
+JavaScript · React · TypeScript · HTML · CSS · Material UI
 
-JavaScript | React | TypeScript | HTML | CSS | Material UI
+**⚙️ Backend**
+Node.js · Express.js · C# · .NET · ASP.NET Core · REST APIs
 
-### ⚙️ Backend
+**🗄️ Database**
+MongoDB · PostgreSQL · SQL · Oracle
 
-Node.js | Express.js | C# | .NET | ASP.NET Core | REST APIs
+**🛠️ Tools**
+Git · GitHub · VS Code · Visual Studio
 
-### 🗄️ Database
+**🔍 Currently Exploring**
+Python · Artificial Intelligence · Machine Learning · LLMs
 
-MongoDB | PostgreSQL | SQL | Oracle
+## 💻 What I Do
 
-### 🛠️ Tools
+- Build full-stack web applications from concept to deployment
+- Design and develop REST APIs and backend services
+- Build responsive, user-friendly interfaces with React
+- Work with MongoDB and SQL databases
+- Debug and resolve application issues
+- Turn ideas into working, production-ready applications
 
-Git | GitHub | VS Code | Visual Studio
-
-### 🔍 Exploring
-
-Python | AI | Machine Learning | LLMs
-
----
-
-# Hello 👋 I'm Abdiaziz Ahmed
-
-<img src="https://img.shields.io/github/followers/abdiaziz2112?style=social" alt="GitHub followers"/>  
-<img src="https://komarev.com/ghpvc/?username=abdiaziz2112&style=flat-square" alt="Profile Views"/>
-
----
-
-## 🌟 About Me
-
-* 💻 Full Stack Developer focused mainly on JavaScript and MERN
-* 🚀 Experience building full-stack web applications
-* ⚛️ Mainly work with React, Node.js, Express, and MongoDB
-* ⚙️ Also work with C# and .NET
-* 🗄️ Enjoy working with APIs, databases, and backend systems
-
----
-
-## 🚀 Tech Stack
-
-### 🎨 Frontend
-
-JavaScript | React | TypeScript | HTML | CSS | Material UI
-
-### ⚙️ Backend
-
-Node.js | Express.js | C# | .NET | ASP.NET Core | REST APIs
-
-### 🗄️ Database
-
-MongoDB | PostgreSQL | SQL | Oracle
-
-### 🛠️ Tools
-
-Git | GitHub | VS Code | Visual Studio
-
-### 🔍 Exploring
-
-Python | AI | Machine Learning | LLMs
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdiaziz2112&show_icons=true&theme=radical" alt="GitHub Stats"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdiaziz2112&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
-
----
 
 ## 🤝 Let's Connect
 
-I'm always interested in working on interesting projects, collaborating with other developers, and building useful software.
+I'm always interested in exciting projects and collaborating with other developers.
+Feel free to explore my repositories to see what I'm building.
 
-Feel free to check out my repositories and see what I'm working on.
-
----
-
-**Thanks for visiting! 👋**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdiaziz2112&show_icons=true&theme=radical" alt="GitHub Stats"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdiaziz2112&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in working on interesting projects, collaborating with other developers, and building useful software.
-
-Feel free to check out my repositories and see what I'm working on.
-
----
-
-**Thanks for visiting! 👋**
+Thanks for visiting
